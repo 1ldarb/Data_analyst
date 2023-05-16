@@ -47,3 +47,9 @@
  **Используемые библиотеки**
  
  *Pandas*
+ 
+ *Matplotlib*
+ 
+ *Seaborn*
+ 
+ *Numpy*
