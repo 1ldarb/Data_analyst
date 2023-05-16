@@ -1,4 +1,4 @@
-| **Название проекта**  | **Описание**                   | **Используемые библиотеки** |
+| **Project Title**  | **Description**                   | **Used Libraries** |
 | :-------------------- | :--------------------          |:---------------------------:|
 | [Big_cities_music](https://github.com/1ldarb/Data_analyst/tree/main/big_cities_music)| Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg based on time (morning and evening) and day of the week (Monday, Wednesday, Friday).       | Pandas |
 |[Reliability of borrowers investigation](https://github.com/1ldarb/Data_analyst/tree/main/Reliability%20of%20borrowers%20investigation)| Analysis of the impact of users' marital status and number of children on timely loan repayment.| Pandas|
