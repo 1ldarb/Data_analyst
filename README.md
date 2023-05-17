@@ -1,3 +1,12 @@
-| **Название проекта**  | **Описание**                   | **Используемые библиотеки** |
+| **Project Title**  | **Description**                   | **Used Libraries** |
 | :-------------------- | :--------------------          |:---------------------------:|
 | [Big_cities_music](https://github.com/1ldarb/Data_analyst/tree/main/big_cities_music)| Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg based on time (morning and evening) and day of the week (Monday, Wednesday, Friday).       | Pandas |
+|[Reliability of borrowers investigation](https://github.com/1ldarb/Data_analyst/tree/main/Reliability%20of%20borrowers%20investigation)| Analysis of the impact of users' marital status and number of children on timely loan repayment.| Pandas|
+|[Apartment sales listings investigation](https://github.com/1ldarb/Data_analyst/tree/main/Apartment%20sales%20listings%20investigation)|Analysis of apartment sales based on various factors.| Pandas|
+|[Mobile communication tariffs analysis](https://github.com/1ldarb/Data_analyst/tree/main/Mobile%20communication%20tariffs%20analysis)| Analysis of mobile telecom users based on tariff plans and geographical location.| Pandas, Numpy, Seaborn|
+|[Computer game sales analysis](https://github.com/1ldarb/Data_analyst/tree/main/Computer%20game%20sales%20analysis)|Comparison of the rating of computer games based on platform and genre.| Pandas, Matplotlib, Seaborn|
+|[Analysis of advertising spendings in the application](https://github.com/1ldarb/Data_analyst/tree/main/Analysis%20of%20advertising%20spendings%20in%20the%20application)|Research on user origin, device usage, acquisition costs, customer revenue, breakeven period, and factors impacting user acquisition.| Pandas, Matplotlib, Seaborn, Numpy|
+|[AB testing](https://github.com/1ldarb/Data_analyst/tree/main/AB%20testing)|Prioritization of hypotheses, launching A/B tests, and analysis of results.| Pandas, Matplotlib, Numpy|
+|[Market research in Moscow. Opening a coffee shop](https://github.com/1ldarb/Data_analyst/tree/main/Market%20research%20in%20Moscow.%20Opening%20a%20coffee%20shop)| Market research in Moscow on the prospects of opening a coffee shop.| Pandas, Matplotlib, Plotly, Seaborn|
+|[App analysis](https://github.com/1ldarb/Data_analyst/tree/main/App%20analysis)|Comparison of app conversion rates based on various factors.| Pandas, Matplotlib, Plotly, Seaborn, Numpy|
+|[Analysis of a book lovers' database. SQL](https://github.com/1ldarb/Data_analyst/tree/main/Analysis%20of%20a%20book%20lovers'%20database.%20SQL)|SQL database analysis for formulating a value proposition for a book reader application.| Pandas|
